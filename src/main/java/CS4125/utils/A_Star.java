@@ -6,12 +6,12 @@ package CS4125.utils;
  * Adam O'Mahony [16187504]
  */
 
+import javax.swing.*;
 import java.util.ArrayList;
-import javax.swing.JOptionPane;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 import java.util.HashSet;
 import java.util.PriorityQueue;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /* A_Star
  * Previous Project modified to route find through a list of adjacent Nodes
